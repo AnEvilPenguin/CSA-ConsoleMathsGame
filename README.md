@@ -2,4 +2,4 @@
 
 An implementation of the initial tutorial from 'The C Sharp Academy'.
 
-I will not be accepting any pull requests.
+I will not be accepting any pull requests to this repository.
